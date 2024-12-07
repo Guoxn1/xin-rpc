@@ -1,0 +1,2 @@
+jdk=com.xin.xinrpc.serialize.JdkSerializer
+hessian=com.xin.xinrpc.serialize.HessianSerializer

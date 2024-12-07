@@ -1,0 +1,2 @@
+failFast=com.xin.xinrpc.fault.tolerant.FailFastTolerantStrategy
+failSafe=com.xin.xinrpc.fault.tolerant.FailSafeTolerantStrategy

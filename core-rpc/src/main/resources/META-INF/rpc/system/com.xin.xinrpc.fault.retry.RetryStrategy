@@ -1,0 +1,2 @@
+no=com.xin.xinrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.xin.xinrpc.fault.retry.FixedIntervalRetryStrategy

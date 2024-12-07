@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-rpc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easy-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easy-rpc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xin-rpc-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xin-rpc-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinrpc-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinrpc-spring-boot-starter/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+json=com.xin.xinrpc.serialize.JsonSerializer
+kryo=com.xin.xinrpc.serialize.KryoSerializer

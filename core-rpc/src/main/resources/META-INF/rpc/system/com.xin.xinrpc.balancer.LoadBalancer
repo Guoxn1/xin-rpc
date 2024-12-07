@@ -1,0 +1,3 @@
+roundRobin=com.xin.xinrpc.balancer.RoundRobinLoadBalancer
+random=com.xin.xinrpc.balancer.RandomLoadBalancer
+consistentHash=com.xin.xinrpc.balancer.ConsistentHashLoadBalancer
